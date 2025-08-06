@@ -33,7 +33,7 @@ https://impresso3d.com.br/2023/04/09/criando-mapas-topograficos-para-impressao-3
 
 https://cartografiaescolar.wordpress.com/serra-do-curral-maquete/
 
-## 3 - Sugestões de Oficinas (7º ao 9º ano, até 45 minutos)
+# Pesquisa de oficina 1:  
 
 1. **Cata-vento de Direção do Vento (Biruta Caseira)**
    **Objetivo:** Construir um indicador simples de **direção dos ventos**, ensinando como os ventos se deslocam e influenciam o clima local. Os alunos compreenderão a importância de observar a direção do vento para previsão do tempo (frentes frias, chegada de tempestades etc.).
@@ -127,11 +127,8 @@ https://cartografiaescolar.wordpress.com/serra-do-curral-maquete/
    6. Explicar os princípios: a luz solar entra, é absorvida pelo fundo preto e vira calor; o alumínio reflete mais luz para dentro aumentando a energia; o plástico funciona como as **paredes de um carro fechado** – deixa a luz entrar mas dificulta a saída do calor, criando um efeito estufa interno. Debater como esse método pode esquentar água ou comida sem eletricidade.
       **Relação com o Smart Clima/ODS:** O forno solar conecta ciência e cidadania, mostrando na prática uma **ação de mitigação climática** (uso de energia limpa). Relaciona-se ao **ODS 7 (Energia Acessível e Limpa)** e **ODS 13**, ao incentivar fontes renováveis. No contexto do Smart Clima, é relevante notar que as próprias miniestações meteorológicas do projeto utilizam **minipainéis solares para funcionar de forma autônoma**. Ou seja, os alunos estarão reproduzindo em pequena escala um princípio real do projeto: aproveitar a energia do sol. A oficina é interativa e replicável – pode inclusive culminar em uma degustação simbólica (como aquecer um marshmallow ou pão), engajando os estudantes de forma lúdica enquanto aprendem sobre energia sustentável e aquecimento global.
 
-# Oficinas Complementares para o Projeto Smart Clima
+# Pesquisa de oficina 2:  
 
-Com base em uma pesquisa profunda sobre práticas educativas em meteorologia e ciências ambientais para o ensino fundamental, identifiquei **15 oficinas complementares** que atendem perfeitamente aos critérios estabelecidos para o projeto Smart Clima. Todas as atividades utilizam materiais de baixo custo, preferencialmente reciclados ou de papelaria comum, evitam componentes eletrônicos complexos (exceto o uso básico de celular) e são adequadas para alunos do 7º ao 9º ano.
-
-## Oficinas Identificadas
 
 ### **1. Construção de Mini Estação Meteorológica com Materiais Reciclados**
 **Duração:** 90 minutos | **Série:** 5º ao 9º ano  
