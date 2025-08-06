@@ -1,19 +1,39 @@
 # OFICINAS PROPOSTAS PARA O PROJETO SMART CLIMA
 
-Cada **oficina proposta** acima enfatiza materiais de **baixo custo ou reciclados**, aprendizagem prática e vínculo com temas de clima e meio ambiente. Elas foram pensadas para evitar duplicação de atividades já realizadas (como pluviômetros de PET, anemômetros simples ou mapas de relevo em gesso) e trazer novidades alinhadas aos objetivos do projeto Smart Clima e aos Objetivos de Desenvolvimento Sustentável. Além de facilmente **replicáveis em escolas públicas**, essas oficinas inspiram boas práticas já reconhecidas em projetos premiados, promovendo **educação climática inovadora** e engajadora. Em suma, ao construir e explorar esses modelos e experimentos, os jovens desenvolvem conhecimento científico, consciência ambiental e protagonismo – elementos-chave para formar uma geração consciente e preparada para os desafios das mudanças climáticas.
+Cada **oficina proposta** acima enfatiza materiais de **baixo custo ou reciclados**, aprendizagem prática e vínculo com temas de clima e meio ambiente. Elas foram pensadas para evitar duplicação de atividades já realizadas (como pluviômetros de PET, anemômetros simples ou mapas de relevo em gesso) e trazer novidades alinhadas aos objetivos do projeto Smart Clima e aos Objetivos de Desenvolvimento Sustentável. 
 
-**Referências:** As sugestões baseiam-se em práticas recomendadas por programas de educação em clima e desastre. Projetos destacados pelo Cemaden Educação demonstraram sucesso com oficinas **“mão na massa”**, como construção de instrumentos meteorológicos por alunos e uso de maquetes participativas para mapear riscos. Tais experiências evidenciam ganhos pedagógicos e cidadania ativa, confirmando que atividades práticas de ciência e sustentabilidade **motivam os estudantes e a comunidade escolar**. As ideias aqui reunidas procuram expandir esse repertório, inovando nas estratégias didáticas sem perder o foco nos **ODS** e na realidade climática local. Em última análise, oficinas assim fortalecem o Smart Clima ao envolver os alunos em **ciência cidadã**, preparando-os para agir em prol de um futuro mais sustentável.
+Além de facilmente **replicáveis em escolas públicas**, essas oficinas inspiram boas práticas já reconhecidas em projetos premiados, promovendo **educação climática inovadora** e engajadora. Em suma, ao construir e explorar esses modelos e experimentos, os jovens desenvolvem conhecimento científico, consciência ambiental e protagonismo – elementos-chave para formar uma geração consciente e preparada para os desafios das mudanças climáticas.
 
-## Tutorial para criação de mapas 3d
+**Referências:** As sugestões baseiam-se em práticas recomendadas por programas de educação em clima e desastre. Projetos destacados pelo Cemaden Educação demonstraram sucesso com oficinas **“mão na massa”**, como construção de instrumentos meteorológicos por alunos e uso de maquetes participativas para mapear riscos. 
+
+Tais experiências evidenciam ganhos pedagógicos e cidadania ativa, confirmando que atividades práticas de ciência e sustentabilidade **motivam os estudantes e a comunidade escolar**. As ideias aqui reunidas procuram expandir esse repertório, inovando nas estratégias didáticas sem perder o foco nos **ODS** e na realidade climática local. Em última análise, oficinas assim fortalecem o Smart Clima ao envolver os alunos em **ciência cidadã**, preparando-os para agir em prol de um futuro mais sustentável.
+
+### **Integração Interdisciplinar**
+Cada oficina conecta conceitos de ciências, geografia, matemática e educação ambiental, favorecendo uma visão holística dos fenômenos climáticos.
+
+## Recomendações de Implementação
+
+### **Sequenciamento Sugerido**
+1. **Introdução:** Experimentos de pressão atmosférica e propriedades do ar..
+2. **Instrumentação:** Construção de instrumentos meteorológicos caseiros..
+3. **Fenômenos:** Simulações de ciclo da água, efeito estufa e correntes de ar...
+4. **Aplicações:** Jardins de chuva, bombas de sementes e energia solar...
+5. **Sistematização:** Comparação com dados das miniestações Smart Clima..
+
+### **Materiais de Apoio**
+Sugere-se criar kits com materiais básicos que podem ser reutilizados em múltiplas turmas, otimizando recursos e facilitando a logística das atividades.
+
+
+## 1 - Tutorial para criação de mapas 3d
 
 https://impresso3d.com.br/2023/04/09/criando-mapas-topograficos-para-impressao-3d/
 
 
-## Cartografia escolar
+## 2- Cartografia escolar
 
 https://cartografiaescolar.wordpress.com/serra-do-curral-maquete/
 
-## Sugestões de Oficinas (7º ao 9º ano, até 45 minutos)
+## 3 - Sugestões de Oficinas (7º ao 9º ano, até 45 minutos)
 
 1. **Cata-vento de Direção do Vento (Biruta Caseira)**
    **Objetivo:** Construir um indicador simples de **direção dos ventos**, ensinando como os ventos se deslocam e influenciam o clima local. Os alunos compreenderão a importância de observar a direção do vento para previsão do tempo (frentes frias, chegada de tempestades etc.).
@@ -113,125 +133,174 @@ Com base em uma pesquisa profunda sobre práticas educativas em meteorologia e c
 
 ## Oficinas Identificadas
 
-### **1. Construção de Mini Estação Meteorológica com Materiais Reciclados**[1][2][3]
+### **1. Construção de Mini Estação Meteorológica com Materiais Reciclados**
 **Duração:** 90 minutos | **Série:** 5º ao 9º ano  
 **Materiais:** Garrafas PET, canudos, fita adesiva, papel, régua  
 Permite construir pluviômetro, higrômetro, termômetro e cata-vento usando apenas materiais reciclados, complementando os dados das miniestações automáticas do Smart Clima.
+
+https://pt.slideshare.net/slideshow/projeto-estao-metereolgica/13470948
+
+https://educador.brasilescola.uol.com.br/estrategias-ensino/construindo-um-termometro.htm
 
 ### **2. Experimentos de Erosão do Solo com Bandejas**[4][5]
 **Duração:** 45 minutos | **Série:** 6º ao 9º ano  
 **Materiais:** Bandejas plásticas, terra, grama, regador, pedras  
 Demonstra na prática os processos erosivos comparando solo nu com cobertura vegetal, evidenciando a importância da vegetação para proteção climática.
 
+<img width="450" height="432" alt="image" src="https://github.com/user-attachments/assets/d897db7d-b680-4512-a223-376a88e6c0e5" />
+
+Elaboração e Aplicação de experimento sobre erosão do solo em
+Escola Pública. https://repositorio.unesp.br/server/api/core/bitstreams/6015b692-6ce8-405d-b985-2f9e9325d71a/content
+
+
+<img width="426" height="327" alt="image" src="https://github.com/user-attachments/assets/f768c9ac-2733-4b44-aa00-cb7e211e7395" />
+
+https://www.ige.unicamp.br/terraedidatica/v12_3/PDF12_3/Td-123-8.pdf
+
+
 ### **3. Construção de Jardim de Chuva Demonstrativo**[6][7][8]
 **Duração:** 60 minutos | **Série:** 7º ao 9º ano  
 **Materiais:** Recipientes, areia, plantas, água, brita  
 Simula em pequena escala como jardins de chuva funcionam para aumentar permeabilidade urbana e reduzir alagamentos, conectando urbanização sustentável com clima.
+<img width="474" height="378" alt="image" src="https://github.com/user-attachments/assets/12437c43-5409-44c7-a5af-8dfd7066174a" />
+
+
+https://repositorio.pucgoias.edu.br/jspui/bitstream/123456789/867/1/TCC%202%20Marcela%20e%20Luana%20-%20PRONTO.pdf
+
+https://cte.com.br/blog/smart-cities/estrategias-verdes-para-aumentar-a-permeabilidade-das-cidades-e-evitar-enchentes/
+
+<img width="670" height="563" alt="image" src="https://github.com/user-attachments/assets/aa8f0a73-102b-4e8e-94a2-07e330eaba84" />
+
+https://solucoesparacidades.com.br/wp-content/uploads/2013/04/AF_Jardins-de-Chuva-online.pdf
 
 ### **4. Terrário Fechado em Garrafa PET**[9][10][11]
 **Duração:** 45 minutos | **Série:** 7º ao 9º ano  
 **Materiais:** Garrafa PET, pedras, carvão, terra, plantas pequenas  
 Cria um ecossistema fechado que demonstra o ciclo da água de forma visual, permitindo observar evaporação, condensação e precipitação em escala reduzida.
 
-### **5. Simulação de Ondas de Calor e Reflexão Solar**[12][13][14]
+https://turminha.mpf.mp.br/explore/meio-ambiente/dia-da-agua/aprenda-a-fazer-um-terrario
+
+https://turminha.mpf.mp.br/explore/meio-ambiente/dia-da-agua/aprenda-a-fazer-um-terrario
+
+
+### **5. Simulação de Ondas de Calor e Reflexão Solar**
 **Duração:** 45 minutos | **Série:** 6º ao 8º ano  
 **Materiais:** Termômetros, recipientes, papel preto e branco, lâmpada  
 Experimenta como diferentes cores e superfícies absorvem/refletem radiação solar, explicando o fenômeno de ilhas de calor urbano.
 
-### **6. Construção de Cata-vento para Energia Eólica**[15][16][17]
+https://box.novaescola.org.br/etapa/2/educacao-fundamental-1/caixa/388/tudo-sobre-o-sol/conteudo/21062
+
+https://www.tudosaladeaula.com/2024/07/atividade-sobre-radiacao-solar-com-gabarito-2o-e-3o-ano/
+
+https://sme.goiania.go.gov.br/conexaoescola/ensino_fundamental/ciencias-da-natureza-radiacao-solar/
+
+
+
+### **6. Construção de Cata-vento para Energia Eólica**
+
 **Duração:** 45 minutos | **Série:** 5º ao 9º ano  
 **Materiais:** Papel colorido, palito, cola, tachinha, régua  
 Além de medir direção dos ventos, introduz conceitos de energia renovável eólica, conectando meteorologia com sustentabilidade energética.
 
-### **7. Experimentos de Pressão Atmosférica**[18][19][20]
+https://darwin.com.br/construcao-de-cata-vento-na-aula-de-ciencias-faz-a-alegria-dos-alunos/
+
+https://prefeitura.sp.gov.br/web/meio_ambiente/w/noticias/207635
+
+
+### **7. Experimentos de Pressão Atmosférica**
 **Duração:** 50 minutos | **Série:** 7º ao 9º ano  
 **Materiais:** Copos, água, velas, balões, papel  
 Demonstra propriedades do ar atmosférico através de experimentos visuais impressionantes, explicando como a pressão influencia o clima.
+
+https://prefeitura.sp.gov.br/web/meio_ambiente/w/noticias/207635
+
+<img width="629" height="360" alt="image" src="https://github.com/user-attachments/assets/4e081f47-36a8-4e5e-81bd-41081db30773" />
+
+https://www.youtube.com/watch?v=ftps1rutHQA&t=1s
 
 ### **8. Oficina de Bombas de Sementes Ecológicas**[21]
 **Duração:** 60 minutos | **Série:** 7º ao 9º ano  
 **Materiais:** Argila, terra, sementes nativas, água  
 Produz ferramentas de reflorestamento urbano, conectando ação climática local com biodiversidade e sequestro de carbono.
 
-### **9. Modelo de Ilha de Calor Urbana**[22]
+<img width="791" height="230" alt="image" src="https://github.com/user-attachments/assets/0716fe0e-b146-4e2a-b838-5b037c39e625" />
+
+OFICINA DE PRODUÇÃO DE MATERIAIS PEDAGÓGICOS E LÚDICOS COM
+REUTILIZÁVEIS: UMA PROPOSTA DE EDUCAÇÃO AMBIENTAL NO ENSINO DE
+CIÊNCIAS E BIOLOGIA https://www.conhecer.org.br/enciclop/2011a/humanas/oficina%20de%20producao.pdf
+
+### **9. Modelo de Ilha de Calor Urbana**
 **Duração:** 45 minutos | **Série:** 6º ao 9º ano  
 **Materiais:** Caixas, papel preto/branco, termômetros, fonte de calor  
 Experimenta diferenças de temperatura entre superfícies urbanas e naturais, evidenciando como cidades influenciam microclimas locais.
 
-### **10. Mini Aquário Simulador de Correntes de Ar**[23]
+<img width="971" height="376" alt="image" src="https://github.com/user-attachments/assets/a6783b32-dbdc-4969-9b17-139469622749" />
+
+https://periodicos.unb.br/index.php/rpf/article/download/46002/35146/144161
+
+### **10. Mini Aquário Simulador de Correntes de Ar**
 **Duração:** 50 minutos | **Série:** 7º ao 8º ano  
 **Materiais:** Aquário, água quente/fria, corante, recipientes  
 Visualiza como diferenças de temperatura criam movimentação do ar, explicando formação de ventos e correntes atmosféricas.
 
-### **11. Construção de Higrômetro de Fio de Cabelo**[2][24][25]
+https://seara.ufc.br/pt/sugestoes-para-feira-de-ciencias/sugestoes-de-fisica/fluidos/um-higrometro-simples/
+
+### **11. Construção de Higrômetro de Fio de Cabelo**
 **Duração:** 60 minutos | **Série:** 6º ao 9º ano  
 **Materiais:** Fio de cabelo, canudo, papel, caixa de sapatos  
 Utiliza propriedades higroscópicas do cabelo para medir umidade relativa, demonstrando como materiais orgânicos respondem ao clima.
+
+
+<img width="288" height="293" alt="image" src="https://github.com/user-attachments/assets/8e89c6f4-d0a5-4756-8ec7-1208ea69374c" />
+
+https://seara.ufc.br/pt/sugestoes-para-feira-de-ciencias/sugestoes-de-fisica/fluidos/um-higrometro-simples/
 
 ### **12. Termômetro Caseiro com Expansão Térmica**[3][26][27]
 **Duração:** 50 minutos | **Série:** 6º ao 9º ano  
 **Materiais:** Garrafa PET, álcool, corante, canudo, massa de modelar  
 Aplica princípios de dilatação térmica para construir instrumento funcional de medição de temperatura.
 
-### **13. Painel Solar Educativo com Materiais Alternativos**[28][29][30]
+
+<img width="450" height="305" alt="image" src="https://github.com/user-attachments/assets/c461eb48-661a-4cab-899f-891c285ab580" />
+
+https://educapes.capes.gov.br/bitstream/capes/728308/2/EXPERIMENTO%20COM%20TERMO%CC%82METRO%20CASEIRO%20NO%20PIBID%20FI%CC%81SICA%20DO%20IFC%20RIO%20DO%20SUL.pdf
+
+### **13. Painel Solar Educativo com Materiais Alternativos**
 **Duração:** 90 minutos | **Série:** 8º ao 9º ano  
 **Materiais:** Células solares pequenas, fios, multímetro, madeira  
 Introduz energia solar fotovoltaica de forma prática, conectando radiação solar com tecnologias de energia limpa.
 
-### **14. Oficina de Permeabilidade do Solo**[31][32]
+https://if.ufmt.br/eenci/artigos/Artigo_ID781/v15_n3_a2020.pdf
+
+https://www.teachy.com.br/atividades/ensino-medio/1ano/energia-sustentavel/construindo-um-painel-solar-caseiro
+
+
+### **14. Oficina de Permeabilidade do Solo**
 **Duração:** 45 minutos | **Série:** 6º ao 8º ano  
 **Materiais:** Tubos PET, diferentes tipos de solo, água, cronômetro  
 Testa velocidade de infiltração em diferentes solos, relacionando propriedades do solo com drenagem e enchentes urbanas.
 
-### **15. Simulador de Efeito Estufa com Garrafas PET**[33][34][35]
+<img width="1006" height="333" alt="image" src="https://github.com/user-attachments/assets/2e8019be-3580-420f-95c8-ea2f48729231" />
+
+
+https://fef.br/upload_arquivos/geral/arq_5aba3c3cbd47f.pdf
+
+https://www.casal.al.gov.br/experiencias-em-sala/
+
+### **15. Simulador de Efeito Estufa com Garrafas PET*
 **Duração:** 50 minutos | **Série:** 6º ao 9º ano  
 **Materiais:** Garrafas PET, termômetros, CO2 (bicarbonato + vinagre)  
 Demonstra como gases atmosféricos retêm calor, evidenciando o mecanismo do aquecimento global de forma tangível.
 
-## Análise das Oficinas
+<img width="660" height="492" alt="image" src="https://github.com/user-attachments/assets/f71e888b-1d1a-40aa-bd37-1846b8566615" />
 
-### **Distribuição por Público-Alvo**
-- **6º ao 9º ano:** 5 oficinas (33%)
-- **7º ao 9º ano:** 4 oficinas (27%) 
-- **5º ao 9º ano:** 2 oficinas (13%)
-- **6º ao 8º ano:** 2 oficinas (13%)
-- **7º ao 8º ano:** 1 oficina (7%)
-- **8º ao 9º ano:** 1 oficina (7%)
+https://novaescola.org.br/planos-de-aula/fundamental/7ano/ciencias/consequencias-da-intensificacao-do-efeito-estufa/2305
 
-### **Distribuição por Duração**
-- **45 minutos:** 6 oficinas (40%)
-- **50 minutos:** 4 oficinas (27%)
-- **60 minutos:** 3 oficinas (20%)
-- **90 minutos:** 2 oficinas (13%)
+https://mnpef.univasf.edu.br/p01/index.php/10-atividade-experimental-efeito-estufa-aquecimento-global-e-oceanos-com-roteiro-no-google-sala-de-aula/
 
-## Vantagens das Oficinas Propostas
 
-### **Sustentabilidade e Baixo Custo**
-Todas as atividades priorizam materiais reciclados, especialmente garrafas PET, papelão e materiais de papelaria comum. O custo total por oficina não ultrapassa R$ 20,00 por grupo de 4-5 alunos.[36][37][21]
 
-### **Alinhamento Pedagógico**
-As oficinas conectam-se diretamente aos Objetivos de Desenvolvimento Sustentável (ODS 6, 7, 11, 13 e 15) e complementam os dados coletados pelas miniestações meteorológicas do Smart Clima.[36][21]
-
-### **Metodologia Ativa**
-Seguem abordagem "mão na massa" comprovadamente eficaz em projetos do Cemaden Educação, promovendo aprendizagem significativa através da experimentação prática.[36]
-
-### **Flexibilidade de Aplicação**
-Podem ser adaptadas para diferentes realidades escolares e combinadas entre si, criando sequências didáticas mais amplas sobre clima e sustentabilidade.[38][39]
-
-### **Integração Interdisciplinar**
-Cada oficina conecta conceitos de ciências, geografia, matemática e educação ambiental, favorecendo uma visão holística dos fenômenos climáticos.[40][41]
-
-## Recomendações de Implementação
-
-### **Sequenciamento Sugerido**
-1. **Introdução:** Experimentos de pressão atmosférica e propriedades do ar
-2. **Instrumentação:** Construção de instrumentos meteorológicos caseiros
-3. **Fenômenos:** Simulações de ciclo da água, efeito estufa e correntes de ar
-4. **Aplicações:** Jardins de chuva, bombas de sementes e energia solar
-5. **Sistematização:** Comparação com dados das miniestações Smart Clima
-
-### **Materiais de Apoio**
-Sugere-se criar kits com materiais básicos que podem ser reutilizados em múltiplas turmas, otimizando recursos e facilitando a logística das atividades.[42][21]
+[42][21]
 
 ### **Formação Docente**
 Recomenda-se capacitação prévia dos professores através de oficinas práticas, garantindo segurança e qualidade na execução das atividades.[43][41]
