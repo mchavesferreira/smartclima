@@ -28,8 +28,18 @@ Sugere-se criar kits com materiais básicos que podem ser reutilizados em múlti
 
 https://impresso3d.com.br/2023/04/09/criando-mapas-topograficos-para-impressao-3d/
 
+<img width="411" height="547" alt="image" src="https://github.com/user-attachments/assets/f615bfd6-e03c-4818-9f42-c4a1fe23a27d" />
+
+
+Prototipagem da paisagem - Oficina de produção de mapas de relevo
+https://geoturismobrasileiro.com.br/index.php/oficinas/35-prototipagem-da-paisagem-oficina-de-producao-de-mapas-de-relevo?showall=1
 
 ## 2- Cartografia escolar
+
+3d anaglifo
+<img width="444" height="302" alt="image" src="https://github.com/user-attachments/assets/77b2ad62-6890-4cae-b128-b73b53766c70" />
+
+https://cartografiaescolar.wordpress.com/relevo-em-3d/
 
 https://cartografiaescolar.wordpress.com/serra-do-curral-maquete/
 
