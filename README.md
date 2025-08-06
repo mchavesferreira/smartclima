@@ -284,7 +284,7 @@ https://fef.br/upload_arquivos/geral/arq_5aba3c3cbd47f.pdf
 
 https://www.casal.al.gov.br/experiencias-em-sala/
 
-### **15. Simulador de Efeito Estufa com Garrafas PET*
+### **15. Simulador de Efeito Estufa com Garrafas PET**
 **Duração:** 50 minutos | **Série:** 6º ao 9º ano  
 **Materiais:** Garrafas PET, termômetros, CO2 (bicarbonato + vinagre)  
 Demonstra como gases atmosféricos retêm calor, evidenciando o mecanismo do aquecimento global de forma tangível.
@@ -296,129 +296,6 @@ https://novaescola.org.br/planos-de-aula/fundamental/7ano/ciencias/consequencias
 https://mnpef.univasf.edu.br/p01/index.php/10-atividade-experimental-efeito-estufa-aquecimento-global-e-oceanos-com-roteiro-no-google-sala-de-aula/
 
 
-
-[42][21]
-
-### **Formação Docente**
-Recomenda-se capacitação prévia dos professores através de oficinas práticas, garantindo segurança e qualidade na execução das atividades.[43][41]
-
-Essas 15 oficinas ampliam significativamente o repertório do projeto Smart Clima, oferecendo experiências práticas que tornam os conceitos meteorológicos e ambientais mais tangíveis e envolventes para os estudantes, sempre mantendo o foco na sustentabilidade e na utilização de materiais acessíveis.
-
-[1] https://pt.slideshare.net/slideshow/projeto-estao-metereolgica/13470948
-[2] https://seara.ufc.br/pt/sugestoes-para-feira-de-ciencias/sugestoes-de-fisica/fluidos/um-higrometro-simples/
-[3] https://educador.brasilescola.uol.com.br/estrategias-ensino/construindo-um-termometro.htm
-[4] https://repositorio.unesp.br/bitstreams/6015b692-6ce8-405d-b985-2f9e9325d71a/download
-[5] https://www.ige.unicamp.br/terraedidatica/v12_3/PDF12_3/Td-123-8.pdf
-[6] https://repositorio.pucgoias.edu.br/jspui/bitstream/123456789/867/1/TCC%202%20Marcela%20e%20Luana%20-%20PRONTO.pdf
-[7] https://cte.com.br/blog/smart-cities/estrategias-verdes-para-aumentar-a-permeabilidade-das-cidades-e-evitar-enchentes/
-[8] https://solucoesparacidades.com.br/wp-content/uploads/2013/04/AF_Jardins-de-Chuva-online.pdf
-[9] https://www.youtube.com/watch?v=mR0Cimh7G6Q
-[10] https://www.youtube.com/watch?v=lpQA3aDqzRg
-[11] https://turminha.mpf.mp.br/explore/meio-ambiente/dia-da-agua/aprenda-a-fazer-um-terrario
-[12] https://box.novaescola.org.br/etapa/2/educacao-fundamental-1/caixa/388/tudo-sobre-o-sol/conteudo/21062
-[13] https://www.tudosaladeaula.com/2024/07/atividade-sobre-radiacao-solar-com-gabarito-2o-e-3o-ano/
-[14] https://sme.goiania.go.gov.br/conexaoescola/ensino_fundamental/ciencias-da-natureza-radiacao-solar/
-[15] https://www.youtube.com/watch?v=RSYw05vQ1Fk
-[16] https://darwin.com.br/construcao-de-cata-vento-na-aula-de-ciencias-faz-a-alegria-dos-alunos/
-[17] https://prefeitura.sp.gov.br/web/meio_ambiente/w/noticias/207635
-[18] https://www.youtube.com/watch?v=YLJm5OgiYqk
-[19] https://educacao.uol.com.br/planos-de-aula/fundamental/ciencias-ar-atmosferico---um-experimento-simples.htm
-[20] https://www.youtube.com/watch?v=ftps1rutHQA
-[21] https://www.conhecer.org.br/enciclop/2011a/humanas/oficina%20de%20producao.pdf
-[22] https://periodicos.unb.br/index.php/rpf/article/download/46002/35146/144161
-[23] https://www.youtube.com/watch?v=JuxZTgWEKfs
-[24] https://www.youtube.com/watch?v=B5ORuODdDNs
-[25] https://www.passeidireto.com/arquivo/16879826/projeto-higrometro-de-fio-de-cabelo
-[26] https://www.youtube.com/watch?v=PRY-YU1d1Hk
-[27] https://educapes.capes.gov.br/bitstream/capes/728308/2/EXPERIMENTO%20COM%20TERMO%CC%82METRO%20CASEIRO%20NO%20PIBID%20FI%CC%81SICA%20DO%20IFC%20RIO%20DO%20SUL.pdf
-[28] https://www.teachy.com.br/atividades/ensino-medio/1ano/energia-sustentavel/construindo-um-painel-solar-caseiro
-[29] https://www.ecoflow.com/br/blog/how-to-make-solar-panels
-[30] https://if.ufmt.br/eenci/artigos/Artigo_ID781/v15_n3_a2020.pdf
-[31] https://fef.br/upload_arquivos/geral/arq_5aba3c3cbd47f.pdf
-[32] https://www.casal.al.gov.br/experiencias-em-sala/
-[33] https://mnpef.univasf.edu.br/p01/index.php/10-atividade-experimental-efeito-estufa-aquecimento-global-e-oceanos-com-roteiro-no-google-sala-de-aula/
-[34] https://novaescola.org.br/planos-de-aula/fundamental/7ano/ciencias/consequencias-da-intensificacao-do-efeito-estufa/2305
-[35] https://educador.brasilescola.uol.com.br/estrategias-ensino/atividade-sobre-efeito-estufa.htm
-[36] https://www.revistaea.org/pf.php?idartigo=2647
-[37] https://editorarealize.com.br/editora/anais/enalic/2023/TRABALHO_COMPLETO_EV190_MD1_ID1339_TB462_20112023224619.pdf
-[38] https://acervodigital.ufpr.br/xmlui/bitstream/handle/1884/48826/R%20-%20E%20-%20ANGELA%20FONTOURA%20PIRES%20SCHWIND.pdf?sequence=1&isAllowed=y
-[39] https://repositorio.utfpr.edu.br/jspui/bitstream/1/29608/3/sustentabilidadeoficinasalunos.pdf
-[40] https://periodicos.ufsm.br/cienciaenatura/article/view/29339
-[41] https://books.scielo.org/id/w4sy5/pdf/maia-9788595462830-01.pdf
-[42] https://dialogocom.com.br/wp-content/uploads/2022/10/Ebook-Edilcia-1.pdf
-[43] https://institucional.ufpel.edu.br/projetos/id/u2326
-[44] https://journalsemiarid.com/index.php/ijsa/article/download/33/42/213
-[45] https://www.youtube.com/watch?v=v3rZ9UpOjUM
-[46] https://www.institutoclaro.org.br/educacao/nossas-novidades/reportagens/7-atividades-para-ensinar-climatologia-escolar/
-[47] https://efape.educacao.sp.gov.br/curriculopaulista/wp-content/uploads/2023/04/Pr%C3%A1ticas-Experimentais-I-CNT.pdf
-[48] https://goias.gov.br/educacao/wp-content/uploads/sites/40/2025/CEPI/Praticas_Experiementais.pdf
-[49] https://econtents.bc.unicamp.br/inpec/index.php/cef/article/download/9886/5284
-[50] https://www.e-publicacoes.uerj.br/geouerj/article/download/12335/14660/66376
-[51] https://blog.estantemagica.com.br/atividades-sobre-meio-ambiente/
-[52] https://periodicos.udesc.br/index.php/arteinclusao/article/view/6969
-[53] https://incaper.es.gov.br/Not%C3%ADcia/incaper-ensina-nocoes-basicas-de-meteorologia-para-alunos-do-ensino-fundamental
-[54] https://www.youtube.com/watch?v=VV5a7-Gfks4
-[55] https://www.ifsc.edu.br/web/noticias/w/projeto-usa-a-meteorologia-como-ferramenta-de-aprendizagem-no-ensino-fundamental-e-medio
-[56] https://profy.com.br/planos-de-aula/ciencias/ensino-fundamental/1-ano/o-famoso-ciclo-da-agua-32531/
-[57] https://repositorio.unifesp.br/bitstreams/9b8d993a-65bc-412e-b0ae-6bbd18176238/download
-[58] http://www.conscienciaambiental.go.gov.br/educacao_ambiental.html
-[59] https://corujabiologa.wordpress.com/2019/02/19/vamos-fazer-uma-simulacao-o-ciclo-da-agua-e-a-chuva/
-[60] https://blog.estantemagica.com.br/mudancas-climaticas-e-sala-de-aula-como-conscientizar-alunos-sobre-o-aquecimento-global/
-[61] https://www.youtube.com/watch?v=XoXOF1HT97E
-[62] https://exercicios.brasilescola.uol.com.br/exercicios-geografia/exercicios-sobre-aquecimento-global.htm
-[63] https://educador.brasilescola.uol.com.br/estrategias-ensino/utilizando-terrario-para-explicar-ciclo-agua.htm
-[64] https://lunetas.com.br/projetos-meio-ambiente-criancas-jovens/
-[65] https://www.youtube.com/watch?v=Z8Z8Orj3Fjw
-[66] https://exercicios.mundoeducacao.uol.com.br/exercicios-geografia/exercicios-sobre-efeito-estufa.htm
-[67] http://nepeg.com/newnepeg/wp-content/uploads/2017/02/3-201043-O-ENSINO-DE-CLIMATOLOGIA-A-PARTIR-DE-UMA-OFICINA-DE-FOGUETE.pdf
-[68] https://abclima.net.br/XI-SBCG/trabalhos/Ensino_Climatologia/117.pdf
-[69] https://repositorio.utfpr.edu.br/jspui/bitstream/1/29778/1/desenvolvimentocalorimetrodidatico.pdf
-[70] http://pibidgeografiaufv.blogspot.com/2015/04/a-construcao-de-instrumentos.html
-[71] https://www.youtube.com/watch?v=4hD0MoFJwRY
-[72] https://www.sorocaba.unesp.br/Home/Extensao/Engenhocas/construcao-de-um-termometro.pdf
-[73] https://educapes.capes.gov.br/bitstream/capes/720077/2/Produto%20Ensino%20de%20Ci%C3%AAncias.pdf
-[74] https://educador.brasilescola.uol.com.br/estrategias-ensino/construcao-um-psicrometro-sala-aula.htm
-[75] https://www.youtube.com/watch?v=DeE-MfJYeyk
-[76] https://periodicos.ufsm.br/cienciaenatura/article/viewFile/29339/pdf
-[77] https://igce.rc.unesp.br/Home/unidadeauxiliar/ceapla1019/livro_turmatempo.pdf
-[78] https://www.youtube.com/watch?v=nZD_bD96Czc
-[79] https://www.youtube.com/watch?v=fgkQg4Hm0JA
-[80] https://www.reciclasampa.com.br/artigo/sao-paulo-vai-construir-400-jardins-de-chuva-ate-2024
-[81] https://www.youtube.com/watch?v=nEtz_PbjLhI
-[82] https://www.parquecientec.usp.br/passeio-virtual/solo-na-escola
-[83] https://www.aecweb.com.br/revista/materias/jardins-de-chuva-oferecem-mais-permeabilidade-e-verde-as-cidades/22514
-[84] https://www.redeicm.org.br/auxiliadora/3o-ano-terrario-na-garrafa-pet/
-[85] https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1153437/1/Simulador-de-erosao-como-pratica-educativa.pdf
-[86] https://www.sjc.sp.gov.br/media/e55nk1n5/produto-2-relatorio-das-oficinas-tecnicas.pdf
-[87] https://www.tiktok.com/@amorajardins/video/7335500571966721286
-[88] https://www.youtube.com/watch?v=OYgq-95DcP0
-[89] https://www.archdaily.com.br/br/940139/enfrentando-inundacoes-urbanas-7-solucoes-para-cidades-esponja
-[90] https://shopee.com.br/JOPNE-Moinho-De-Vento-Brinquedo-Kits-De-Constru%C3%A7%C3%A3o-Turbina-E%C3%B3lica-Movido-A-Energia-Solar-DIY-Educa%C3%A7%C3%A3o-Divers%C3%A3o-Ci%C3%AAncia-B-i.1228954259.26306563075
-[91] https://www.museucasadeportinari.org.br/cultura_em_casa/oficinas-de-brinquedos-e-brincadeiras-oficina-de-cata-vento/
-[92] https://www.scielo.br/j/rbef/a/JqKwYpMFqHmwJkzW4rRhvwh/
-[93] https://www.youtube.com/watch?v=ThBi6vXz4sA
-[94] https://www.youtube.com/watch?v=on2Hk-7zTTk
-[95] http://www.dca.iag.usp.br/material/ritaynoue/GURI/Anselmo/resumo%20meteor%20ensino%20ci%EAncias%20rita%2020160811.pdf
-[96] https://portal.educacao.go.gov.br/wp-content/uploads/2021/06/Atividade-11-3o-ano-Ciencias-Tema-Sol-como-fonte-de-luz-Professor.pdf
-[97] https://www.instagram.com/p/CvFWpjruaQj/
-[98] http://projetosfisicaexperimental.blogspot.com/2016/03/obtencao-da-velocidade-e-direcao-do.html
-[99] http://www.rio.rj.gov.br/dlstatic/10112/1376247/DLFE-214008.pdf/1.0
-[100] https://www.instagram.com/reel/DHMCU2NRy5o/
-[101] https://www.teachy.com.br/planos-de-aula/ensino-fundamental/2anoEF/ciencias/efeito-da-radiacao-solar-invertida
-[102] https://edukatu.org.br/uploads/EDKT/Elera_Plano_de_Aula_2_Energias_Renovaveis.pdf
-[103] https://www.escolasebn.com.br/assets/ccrcaminhosparaacidadania/misc/material_marc%CC%A7o_Energia%20acessivel_e_limpa_Anos_3a5_ens_fundamental.pdf
-[104] https://www.portalsolar.com.br/painel-solar-caseiro
-[105] https://educapes.capes.gov.br/bitstream/capes/572523/2/SEQU%C3%8ANCIA%20DID%C3%81TICA.pdf
-[106] https://www.portalsolar.com.br/passo-a-passo-da-fabricacao-do-painel-solar.html
-[107] https://efape.educacao.sp.gov.br/curriculopaulista/wp-content/uploads/2022/01/Praticas-Experimentais-de-Ci%C3%AAncias-da-Natureza_EM_Vol1.pdf
-[108] https://www.youtube.com/watch?v=phuYb2bWAs4
-[109] https://canal.cecierj.edu.br/012016/e478cb9b757921ff4a1c2aca3205fde5.pdf
-[110] https://webstorage.cienciaviva.pt/public/pt.pavconhecimento.www/uploads/5535_20200812155406_14-02-25-caderno_profs_ve_faz_aprende_2ciclo.pdf
-[111] https://www.youtube.com/watch?v=NoXtJgjnHbQ
-[112] https://www.youtube.com/watch?v=8DVtAW3xNx8
-[113] https://educador.brasilescola.uol.com.br/estrategias-ensino/experimento-sobre-pressao-atmosferica.htm
-[114] https://www.youtube.com/watch?v=bAtRZfjdb3s
-[115] https://www.diaadiaeducacao.pr.gov.br/portals/cadernospde/pdebusca/producoes_pde/2016/2016_artigo_cien_unicentro_martamariarech.pdf
 
 
 
