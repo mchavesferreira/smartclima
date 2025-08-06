@@ -48,6 +48,7 @@ https://cartografiaescolar.wordpress.com/serra-do-curral-maquete/
 
 https://www.ige.unicamp.br/terraedidatica/v10_1/PDF10_1/Td%20v10-86-Romario.pdf
 
+https://portal.pcs.ifsuldeminas.edu.br/noticias/2960
 
 # Pesquisa de oficina 1:  
 
