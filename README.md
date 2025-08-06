@@ -43,6 +43,12 @@ https://cartografiaescolar.wordpress.com/relevo-em-3d/
 
 https://cartografiaescolar.wordpress.com/serra-do-curral-maquete/
 
+
+<img width="337" height="241" alt="image" src="https://github.com/user-attachments/assets/aef65cea-6233-4643-8635-b053f4f9faad" />
+
+https://www.ige.unicamp.br/terraedidatica/v10_1/PDF10_1/Td%20v10-86-Romario.pdf
+
+
 # Pesquisa de oficina 1:  
 
 1. **Cata-vento de Direção do Vento (Biruta Caseira)**
