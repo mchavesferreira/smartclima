@@ -50,6 +50,10 @@ https://www.ige.unicamp.br/terraedidatica/v10_1/PDF10_1/Td%20v10-86-Romario.pdf
 
 https://portal.pcs.ifsuldeminas.edu.br/noticias/2960
 
+##  GEOPRODUTOS COMO MAPAS FÍSICOS DE RELEVO 3D 
+
+A PROTOTIPAGEM DA PAISAGEM: A CRIAÇÃO DE GEOPRODUTOS COMO MAPAS FÍSICOS DE RELEVO 3D NAS UNIDADES DE CONSERVAÇÃO PARA USO NA GESTÃO E EDUCAÇÃO
+
 # Pesquisa de oficina 1:  
 
 1. **Cata-vento de Direção do Vento (Biruta Caseira)**
